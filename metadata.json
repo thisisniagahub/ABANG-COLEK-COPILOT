@@ -1,0 +1,6 @@
+{
+  "name": "AbangColek Sovereign GrowthOS & Orbit",
+  "description": "Sovereign operations core, multi-step autonomous agent, margin guardian, 5-state machine commerce engine, and East Coast bus logistics for AbangColek.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
